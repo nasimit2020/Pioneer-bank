@@ -1,0 +1,33 @@
+.login-area{
+    width: 75%;
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px rebeccapurple;
+    padding: 20px;
+    border-radius: 5px;
+}
+#transction-area{
+    display: none;
+}
+.deposit{
+    background-color: slateblue;
+    color: white;
+}
+.withdraw{
+    background-color: crimson;
+    color: white;
+}
+.balance{
+    background-color: tomato;
+    color: white;
+}
+.status{
+    margin: 40px 20px 20px 0;
+    padding: 40px;
+    border-radius: 10px;
+}
+.withdraw-area, 
+.deposit-Area{
+    box-shadow: 5px 5px 10px rebeccapurple;
+    padding: 40px;
+    border-radius: 10px;
+}
